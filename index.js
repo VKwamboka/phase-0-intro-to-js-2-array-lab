@@ -4,11 +4,7 @@ const cats = [
     "Otis", 
     "Garfield"];
 
-
-
 // cats.push("Otis");
-
-// const  destructivelyAppendCat = ["Milo", "Otis", "Garfield"];
 
 function destructivelyAppendCat(name){
 
